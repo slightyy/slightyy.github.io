@@ -1,4 +1,4 @@
 ---
-title: web3
-date: 2025-11-17 15:07:54
+title: Web3
+
 ---
