@@ -101,7 +101,7 @@ category_img:
 category_per_img:
 
 # The background image of footer
-footer_img: /images/footer.png
+footer_img: /images/footer.png  
 
 # Website Background
 # Can set it to color or image url
@@ -450,6 +450,7 @@ wordcount:
 
 # Busuanzi count for PV / UV in site
 busuanzi:
+  enable: true
   site_uv: true
   site_pv: true
   page_pv: true
