@@ -69,17 +69,17 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: https://telegraph-image-92x.pages.dev/file/923a99a60126be420ffef-efa89c226c9fe7f2ae.jpg
+  img: /images/avatar.jpg
   effect: false
 
 # Disable all banner images
-disable_top_img: trhttps://telegraph-image-92x.pages.dev/file/86ec1d407c4d8927dc9d0-606e4e9053f78e26fc.pngue
+disable_top_img: /images/background.jpg
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img: https://telegraph-image-92x.pages.dev/file/ed614c73817e87c312f5c-a599d6505c39d55c82.jpg
+default_top_img: /images/background.jpg
 
 # The banner image of index page
-index_img: https://telegraph-image-92x.pages.dev/file/86ec1d407c4d8927dc9d0-606e4e9053f78e26fc.png
+index_img: /images/background.jpg
 
 # The banner image of archive page
 archive_img:
@@ -101,11 +101,11 @@ category_img:
 category_per_img:
 
 # The background image of footer
-footer_img: https://telegraph-image-92x.pages.dev/file/86ec1d407c4d8927dc9d0-606e4e9053f78e26fc.png
+footer_img: /images/footer.png
 
 # Website Background
 # Can set it to color or image url
-background: https://telegraph-image-92x.pages.dev/file/6dd7a39bd3ac28748209c-1b415649b1e765d7d9.jpg
+background: /images/background.jpg
 
 cover:
   # Disable the cover or not
