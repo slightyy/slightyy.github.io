@@ -107,3 +107,15 @@ search:
   path: search.xml
   field: post
   content: true
+
+
+  busuanzi:
+  enable: true
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+inject:
+  head:
+  bottom:
+    - <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
