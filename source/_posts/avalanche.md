@@ -1,16 +1,21 @@
 
 ---
+---
 title: Avalanche 雪崩共识：下一代区块链的高性能引擎
 date: 2025-11-17 14:00:00
 categories:
-  - 技术分享
   - Web3
 tags:
+  - 技术分享
   - Avalanche
   - 区块链
   - 共识机制
   - 高性能
   - Subnets
+permalink: web3/avalanche/
+---
+
+
 ---
 # Avalanche 雪崩共识：下一代区块链的高性能引擎
 
