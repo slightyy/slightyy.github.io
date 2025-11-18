@@ -19,20 +19,18 @@ nav:
 
 menu:
   首页: / || fas fa-home
-
-  列表 || fas fa-list:
-    生活: /life/ || fas fa-leaf
-    项目: /projects/ || fas fa-code
-    Web3: /web3/ || fas fa-cubes
-    美食: /food/ || fas fa-utensils
-    旅行: /travel/ || fas fa-plane
-
+  文章 || fas fa-list:
+    生活: /categories/life/ || fas fa-leaf
+    项目: /categories/projects/ || fas fa-code
+    Web3: /categories/web3/ || fas fa-cubes
+    美食: /categories/food/ || fas fa-utensils
+    旅行: /categories/travel/ || fas fa-plane
+  关于 || fas fa-user-circle:
+    我的装备: /categories/setup/ || fas fa-toolbox
+    关于本站: /categories/about/ || fas fa-info-circle
+    版权: /categories/copyright/ || fas fa-file-contract
   友情链接: /links/ || fas fa-link
 
-  关于本站 || fas fa-user:
-    装备: /setup/ || fas fa-toolbox
-    关于本站: /about/ || fas fa-info-circle
-    版权说明: /copyright/ || fas fa-file-contract
 
 
 
