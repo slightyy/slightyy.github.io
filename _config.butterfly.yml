@@ -296,7 +296,7 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
+      icon: fas fa-shopping-cart
       text: 我的电商网站
       link: https://github.com/slightyy
   card_announcement:
