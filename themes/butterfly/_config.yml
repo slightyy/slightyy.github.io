@@ -26,9 +26,9 @@ menu:
     美食: /categories/food/ || fas fa-utensils
     旅行: /categories/travel/ || fas fa-plane
   关于 || fas fa-user-circle:
-    我的装备: /categories/setup/ || fas fa-toolbox
-    关于本站: /categories/about/ || fas fa-info-circle
-    版权: /categories/copyright/ || fas fa-file-contract
+    我的装备: /setup/ || fas fa-toolbox
+    关于本站: /about/ || fas fa-info-circle
+    版权: /copyright/ || fas fa-file-contract
   友情链接: /links/ || fas fa-link
 
 
