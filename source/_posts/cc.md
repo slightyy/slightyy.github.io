@@ -2,7 +2,7 @@
 title: 版权协议
 date: 2025-11-18 00:00:00
 categories:
-  - Copyright
+  - copyright
 ---
 # 📄 版权协议（Copyright Notice）
 
